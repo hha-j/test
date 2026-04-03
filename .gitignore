@@ -1,0 +1,17 @@
+# target/
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+*.eclipse
+.classpath
+.project
+.settings/
+
+# Maven wrapper
+!.mvn/
